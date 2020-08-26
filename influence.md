@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Influence
+permalink: /productivity/influence
 ---
 
 
