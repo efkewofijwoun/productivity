@@ -32,7 +32,8 @@ url: https://efkewofijwoun.github.io/productivity/ # the base hostname & protoco
 theme: minima
 plugins:
   - jekyll-feed
-
+  
+paginate: 5
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
