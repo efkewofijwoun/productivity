@@ -25,15 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Our project work is based off the modernization of the world, how these modernizations have affected us for the better or for worse
 
 
-baseurl: /productivity # the subpath of your site, e.g. /blog
-url: https://efkewofijwoun.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://efkewofijwoun.github.io/productivity # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-paginate: 5
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
