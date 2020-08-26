@@ -40,6 +40,19 @@ Based on [https://www.oecd.org/education/highlights.pdf](https://www.oecd.org/ed
 
 Also, based on [https://www.unicef-irc.org/publications/pdf/Children-digital-technology-wellbeing.pdf]9https://www.unicef-irc.org/publications/pdf/Children-digital-technology-wellbeing.pdf), spending too much time on these technologies can also negatively impact their mental well-being.
 
+## How we evaluated productivity
+
+The formula for productivity was modelled as n/t where n is the total points of the person and t is the amount of time spent on the work including the breaks
+
+For the questions, we found out the amount of work they did and the amount of time they spent on those tasks. We create a point system out of 10 points in order to judge the productivity of each individual, such as doing generic homework awards you 6 points, doing test papers 8 points.
+
+We then took the total amount of points and plotted it by the amount of minutes spent on the entertainment technology to calculate the productivity of these SJI students.
+
+We found students got a total of 8-7 points for productivity while spending at around 1-1.5h on entertainment technology.
+Secondly, students got a total of 6-5 points for productivity while spending at around 3-4h on entertainment technology.
+Lastly, students got a total of 3-2 points for productivity while spending at around 6-7h on entertainment technology.
+
 ## Reasoning
 It eats up a lot of time for students.
 Based on [https://www.budgetdirect.com.sg/car-insurance/research/public-transport-singapore](https://www.budgetdirect.com.sg/car-insurance/research/public-transport-singapore), Singaporeans spend an average of 84 mins on commuting during weekdays. This leaves them little time to study and do homework with the additional 4 hours spend on entertainment every day, making their day little to not at all productive.
+
