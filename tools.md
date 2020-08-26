@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Tools
-permalink: /productivity/tools.html
+permalink: /tools.html
 ---
