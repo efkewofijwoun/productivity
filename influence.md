@@ -21,6 +21,10 @@ Entertainment technologies cause students to be less productive
 ![entertainment](/assets/entertainment.png)
 > Students generally do homework/revision after using entertainment technologies.
 
+![entertainment-technologies](/assets/entertainment-technologies.png)
+![compare](/assets/compare.png)
+> Less time on entertainment = more time for productive work
+
 ## How we evaluated productivity
 
 ### Method 
