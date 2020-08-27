@@ -11,6 +11,7 @@ With less time spent on entertainment technology, time for de-stressing and rest
 
 ## Using the Grayscale colour scheme
 
-When reading more about this topic, we stumbled on [https://www.researchgate.net/publication/340421051_True_colors_Grayscale_setting_reduces_screen_time_in_college_students](https://www.researchgate.net/publication/340421051_True_colors_Grayscale_setting_reduces_screen_time_in_college_students), which told us that using this colour scheme was an effective way to reduce time spent on entertainment technologies as you would lose interest in using them from this. In Windows, there is a shortcut to activate it and it is by hitting Ctrl + Win + C or search colour filter in the Windows search box and turn the filter on. Moreover, this would not hinder you from reading documents and writing work but prevent you from being able to watch videos and play games.
+When reading more about this topic, we stumbled on [https://www.researchgate.net/publication/340421051_True_colors_Grayscale_setting_reduces_screen_time_in_college_students](https://www.researchgate.net/publication/340421051_True_colors_Grayscale_setting_reduces_screen_time_in_college_students), which told us that using this colour scheme was an effective way to reduce time spent on entertainment technologies as you would lose interest in using them from this as it looks unappealing to the students that wants to play games or watch videos.
+In Windows, there is a shortcut to activate it and it is by hitting _Ctrl + Win + C_ or search colour filter in the Windows search box and turn the filter on. Moreover, this would not hinder you from reading documents and writing work but prevent you from being able to watch videos and play games.
 
 ![grayscale](/assets/grayscale.jpg)
